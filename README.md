@@ -9,6 +9,7 @@ of that tool and let the avrage python user create a cool looking
 CLIs.
 
 # Installation
+Use the install instractions from https://github.com/charmbracelet/gum and then:
 ```bash
 $ git clone https://github.com/idobarel/gum-python
 $ cd gum-python
