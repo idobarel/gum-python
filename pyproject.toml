@@ -1,0 +1,9 @@
+[project]
+name = "gum-python"
+version = "0.0.2"
+description = "Creating cool CLIs - A package that allows you to create cool CLIs using the gum tool."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+classifiers = ["Private :: Do Not Upload"]
+
